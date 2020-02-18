@@ -4,4 +4,5 @@ public class Test {
   // Commit B
   // Commit C
   // Commit D
+  // Commit E
 }
